@@ -1,4 +1,4 @@
-package com.library.model;
+package comm.library.model;
 public class User
 {
     private int id;

@@ -1,10 +1,10 @@
-package com.library.servlet;
+package comm.library.servlet;
 
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
-import com.library.dao.BookDAO;
-import com.library.model.Book;
+import comm.library.dao.BookDAO;
+import comm.library.model.Book;
 import java.sql.*;
 
 public class BookServlet extends HttpServlet {

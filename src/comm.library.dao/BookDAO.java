@@ -1,6 +1,6 @@
-package com.library.dao;
+package comm.library.dao;
 
-import com.library.model.Book;
+import comm.library.model.Book;
 import java.sql.*;
 
 public class BookDAO {

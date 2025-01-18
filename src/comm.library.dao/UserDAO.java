@@ -1,6 +1,6 @@
-package com.library.dao;
+package comm.library.dao;
 
-import com.library.model.User;
+import comm.library.model.User;
 import java.sql.*;
 
 public class UserDAO {

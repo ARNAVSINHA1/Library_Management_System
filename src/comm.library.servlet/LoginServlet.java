@@ -1,9 +1,9 @@
-package com.library.servlet;
+package comm.library.servlet;
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
-import com.library.dao.UserDAO;
-import com.library.model.User;
+import comm.library.dao.UserDAO;
+import comm.library.model.User;
 import java.sql.*;
 public class LoginServlet extends HttpServlet {
     protected void doPost(HttpServletRequest req,HttpServletResponse res)throws ServletException,IOException {

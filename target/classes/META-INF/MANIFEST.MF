@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Created-By: 21.0.5 (Microsoft)
+Tool: Bnd-0.0.255
+Bnd-LastModified: 1737220491261
+Bundle-Version: 4.0.0
+Bundle-SymbolicName: javax.servlet-api
+Bundle-License: https://oss.oracle.com/licenses/CDDL+GPL-1.1
+Bundle-DocURL: https://javaee.github.io
+Bundle-Description: Java(TM) Servlet 4.0 API Design Specification
+Implementation-Version: 4.0.1
+Specification-Vendor: Oracle Corporation
+Implementation-Vendor: GlassFish Community
+Implementation-Vendor-Id: org.glassfish
+Extension-Name: javax.servlet
+Bundle-Vendor: GlassFish Community
+Specification-Version: 4.0
+Bundle-Name: Java Servlet API
+
